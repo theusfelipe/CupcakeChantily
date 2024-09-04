@@ -7,7 +7,7 @@
 - vscode
 
 ## 🧩 Como Usar
-- Acesse a página atráves do link: https://eleicaoparavereadorgordinhodascadeiras.vercel.app
+- Acesse a página atráves do link: https://cupcake-chantily.vercel.app
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Se você quiser melhorar a landing page ou adicionar novas funcionalidades, sinta-se à vontade para abrir um Pull Request.
